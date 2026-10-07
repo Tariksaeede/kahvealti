@@ -10,8 +10,10 @@ WHAT CHANGED
 New plum-and-cream visual direction, editorial typography and spacing, curated cake gallery with accessible image dialogs, mobile navigation, touch-friendly contact actions, and reduced-motion support.
 
 CONTENT NOTES
-This is an independent presentation concept, not the official business website. Existing screenshot images are only 299 x 299 pixels. Replace them with original high-resolution photos before a final client launch. The butterfly cake was misnamed chocolate-dessert.jpg in the original demo; its visible label and alt text have been corrected. The screenshot named hello-kitty-cake.jpg was a menu screenshot and has been excluded. Some remaining screenshots are framed with CSS to hide unrelated image fragments.
+This is an independent presentation concept, not the official business website. Updated with the logo, six full cake photos and two dessert photos extracted without retouching from the user-supplied Instagram screenshots. Images are approximately 260 x 350 pixels; original high-resolution photos are still recommended before the final launch. The butterfly cake was misnamed chocolate-dessert.jpg in the original demo; its visible label and alt text have been corrected. The screenshot named hello-kitty-cake.jpg was a menu screenshot and has been excluded. The gallery now uses complete single-post crops without adjacent screenshot fragments. Contact details were updated from the supplied business Instagram profile, including its alternative phone number.
 
 The phone and address were cross-checked against the public listing:
 https://yandex.com.tr/maps/org/kahvealti_kafe/61003925793/
 Opening-hour sources differed, so exact hours and the old Google rating were omitted. Product categories are inherited from the prior demo; the business should confirm current availability, prices, logo, and photos before launch.
+
+Updated using screenshots supplied 7 October 2026.
